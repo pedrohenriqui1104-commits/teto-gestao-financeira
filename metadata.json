@@ -1,8 +1,0 @@
-{
-  "name": "Remix TETO — Gestão e Liberdade Financeira",
-  "description": "Plataforma de gestão financeira pessoal centrada no cálculo automático do Teto Gastável Diário, controle de receitas, despesas, parcelamentos e reserva financeira.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
